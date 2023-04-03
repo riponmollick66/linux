@@ -21,7 +21,7 @@ sudo add-apt-repository ppa:transmissionbt/ppa	;
 
 # Start services at boot
 #==========#=========#====
-# /bin/systemctl enable transmission-daemon  ;
+/bin/systemctl enable transmission-daemon  ;
 
 # Restart the service
 #=======#=======#=====
